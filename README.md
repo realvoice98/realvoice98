@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=범띵떵%20프로필&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&section=header&text=Welcome%20Profile&fontSize=90" />
 </div>
 
 <div align=center>
